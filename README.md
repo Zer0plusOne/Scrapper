@@ -2,10 +2,6 @@
 
 This repository contains a Python script for extracting metadata from different types of files, including images, PDFs, audio files, and Word documents. The script allows users to view metadata directly in the console or save it in multiple formats (JSON, CSV, XML, or TXT) based on your preference.
 
-## Author
-
-Created by [Zer0plusOne](https://github.com/Zer0plusOne)
-
 ## Overview
 
 This is the starter version of the project, aimed to provide a simple and versatile way to analyze and save metadata for different file types. The script identifies the file type based on its extension and processes it accordingly. It supports a wide range of formats, including `.jpg`, `.jpeg`, `.png`, `.pdf`, `.mp3`, `.wav`, `.flac`, and `.docx`. Unsupported formats will notify the user.
@@ -70,3 +66,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Created by [Zer0plusOne](https://github.com/Zer0plusOne)
